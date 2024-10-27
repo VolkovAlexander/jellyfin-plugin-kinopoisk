@@ -154,7 +154,7 @@
         "runtimes": "netframework,netcore",
         "sourceUrl": "https://github.com/LinFor/jellyfin-plugin-kinopoisk/raw/master/dist/kinopoisk/jellyfin-plugin-kinopoisk_10.7.0.0.zip",
         "filename": "jellyfin-plugin-kinopoisk_10.7.0.0.zip",
-        "timestamp": "2021-03-16T1:35:00+0000",
+        "timestamp": "2021-03-16T01:35:00+0000",
         "version": "10.7.0.0"
       },
       {
